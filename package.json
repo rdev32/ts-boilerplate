@@ -1,0 +1,12 @@
+{
+  "name": "moroes-bot",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node build",
+    "dev": "yarn build && yarn start"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}

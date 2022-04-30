@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "module": "CommonJS",
+    "rootDir": "src",
+    "outDir": "build",
+    "removeComments": true,
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "moduleResolution": "Node",
+    "baseUrl": "src",
+    "paths": {},
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
