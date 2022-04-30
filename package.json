@@ -1,5 +1,5 @@
 {
-  "name": "moroes-bot",
+  "name": "project",
   "private": true,
   "scripts": {
     "build": "tsc",
